@@ -1,0 +1,34 @@
+[
+    {
+        name: 'shin',
+        userImage: 'https://blog.kakaocdn.net/dn/5qZg2/btqJXUP6kT7/lODRffuSrwxIOBapmH2W0K/img.jpg',
+        postImage:
+            'https://www.fnnews.com/resource/media/image/2019/01/20/201901201349128167_l.jpg',
+        likes: 36,
+        date: 'May 15',
+        liked: false,
+        content: '귀요미',
+        filter: 'perpetua'
+    },
+    {
+        name: 'hyun',
+        userImage: 'https://news.koreadaily.com/data/photo/2024/03/06/202403061816773901_65e83575b514f.jpg',
+        postImage:
+            'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_R-jk9gi5ozT4pjVCAaT5Td0fFjxurnErqufZAEfx4Tq3aeTkG5tpterjrxglAXNVVBU&usqp=CAU',
+        likes: 20,
+        date: 'Apr 20',
+        liked: false,
+        content: '짱짱이',
+        filter: 'clarendon'
+    },
+    {
+        name: 'ju',
+        userImage: 'https://i.pinimg.com/236x/56/f9/0e/56f90e2c27140fb453f02cf8f03b3643.jpg',
+        postImage: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_R-jk9gi5ozT4pjVCAaT5Td0fFjxurnErqufZAEfx4Tq3aeTkG5tpterjrxglAXNVVBU&usqp=CAU',
+        likes: 49,
+        date: 'Apr 4',
+        liked: false,
+        content: '댕댕이',
+        filter: 'lofi'
+    }
+];
